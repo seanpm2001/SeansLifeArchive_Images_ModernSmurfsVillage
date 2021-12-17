@@ -1,0 +1,14 @@
+pictures
+screenshots
+jpg
+wiki
+gplv3
+images
+md
+txt
+gpl3
+smurfs
+seanpm2001-life-archive
+git-image
+smurfs-village
+smurfs-village-modern
