@@ -1,6 +1,10 @@
+android
 pictures
+ios
 screenshots
+video-games
 jpg
+gaming
 wiki
 gplv3
 images
@@ -8,7 +12,9 @@ md
 txt
 gpl3
 smurfs
+mobile-gaming
 seanpm2001-life-archive
 git-image
 smurfs-village
 smurfs-village-modern
+the-smurfs
