@@ -1,23 +1,49 @@
 
----
+----
+
+== Credits ==
 
 {{int:version-credits-summary}}
-Seans Life Archive / Images / Modern Smurfs Village is NOT a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+Seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage is NOT a collaborative project, but it IS released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
 
-This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
 
-== Maintainers ==
+=== Maintainers ===
+
 <!-- BEGIN MAINTAINERS LIST !-->
 
-1. @seanpm2001 - Creator and primary maintainer of Seans Life Archive / Images / Modern Smurfs Villlage
-2. No other contributors as of Wednesday, August 18th 2021
+1. @seanpm2001 - Creator and primary maintainer of Seans Life Archive / Images / Modern Smurfs Village
 
-== Contributors ==
+2. @all-contributors[bot]
+
+3. No other contributors as of 2022, Wednesday, May 4th at 9:13 pm PST
+
+=== Contributors ===
+
 <!-- BEGIN CONTRIBUTOR LIST -->
-1. @seanpm2001
-2. @Peyo (The creators of the Smurf series of series, although not on GitHub, they will be credited here)
-3. @Beeline_Interactive (The original company that made this game, although not on GitHub, they will be credited here)
-4. @Popreach_Incorporated (The company that took over development of this game in the late 2010s, although not on GitHub, they will be credited here)
-5. No other contributors as of Wednesday, August 18th 2021
 
----
+1. @seanpm2001
+
+2. @all-contributors[bot]
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @Peyo (The creators of the Smurf series of series, although not on GitHub, they will be credited here)
+
+5. @Beeline_Interactive (The original company that made this game, although not on GitHub, they will be credited here)
+
+6. @Popreach_Incorporated (The company that took over development of this game in the late 2010s, although not on GitHub, they will be credited here)
+
+7. @Coriiander (for a commit count on this project)
+
+8. No other contributors as of 2022, Wednesday, May 4th at 9:13 pm PST
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>2 (2022, Wednesday, May 4th at 9:13 pm PST)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>50</i>
+
+----
