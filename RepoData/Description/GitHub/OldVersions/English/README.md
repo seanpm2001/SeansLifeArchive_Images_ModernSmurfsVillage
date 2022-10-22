@@ -1,0 +1,1 @@
+The module for my life story project that contains my images of the modern version of the game Smurfs Village, which hasn't changed too much since I last played (~2012) but enough to create a separate instance.
