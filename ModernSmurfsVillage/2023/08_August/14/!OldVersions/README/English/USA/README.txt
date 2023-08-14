@@ -1,0 +1,20 @@
+
+***
+
+# 2023, Monday, August 14th session
+
+Session data for this day is available in a separate repository.
+
+- [:octocat: `Click/tap here to go the 2023 August image repository`](https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2023_V1/)
+
+Jump to the specific entry:
+
+- [:octocat: `Click/tap here to go the 2023 August 14th entry`](https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2023_V1/tree/SeansLifeArchive_ModernSmurfsVillage_Y2023_V1_Main-dev/08_August/14/)
+
+***
+
+# File info
+
+**File version:** `1 (2023, Sunday, August 13th at 06:33 pm PST)`
+
+***
