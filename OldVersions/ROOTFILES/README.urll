@@ -1,4 +1,5 @@
 /.github/
+/.gitlab/
 /Branches/
 /Docs/
 /ModernSmurfsVillage/
@@ -35,6 +36,7 @@
 /PROJECT_LANG_1.purs
 /README.md
 /ROOTFILES.base
+/SeansLifeArchive_Images_ModernSmurfsVillage_REPOLIST.urll
 /SECURITY.md
 /SmurfsVillageIcon1.png
 /SponsorButton.png
