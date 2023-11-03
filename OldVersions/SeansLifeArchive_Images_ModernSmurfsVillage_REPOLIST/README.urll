@@ -3,12 +3,20 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Modern Smurfs Village image repositories repositories by @seanpm2001
 //// A subgroup of SeansLifeArchive_Images and also SeansLifeArchive
+//// Old file:
+/REPOLIST.urll
 
 //// ----------------------------------------------------- \\\\
 
 //// Home repository (1)
 
 https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage/
+
+//// ----------------------------------------------------- \\\\
+
+//// Classic home repository (1)
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_ClassicSmurfsVillage/
 
 //// ----------------------------------------------------- \\\\
 
@@ -21,9 +29,9 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2023_
 
 //// ----------------------------------------------------- \\\\
 
-//// Repo count: 5
+//// Repo count: 6
 
-//// 1+4+5
+//// 1+1+4+6
 
 //// ----------------------------------------------------- \\\\
 
@@ -36,16 +44,16 @@ https://github.com/seanpm2001/Git-Image/
 
 //// ----------------------------------------------------- \\\\
 
-//// Total repo count: 9
+//// Total repo count: 10
 
-//// 5+4=9
+//// 6+4=10
 
 //// ----------------------------------------------------- \\\\
 
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2023, Friday, November 3rd at 04:35 pm PST)
-//// Line count (including blank lines and compiler line): 53
+//// File version: 2 (2023, Friday, November 3rd at 04:39 pm PST)
+//// Line count (including blank lines and compiler line): 61
 
 //// ----------------------------------------------------- \\\\
 
